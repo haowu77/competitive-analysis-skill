@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitive Analysis"
+  short_description: "Research competitors and export benchmark XLSX"
+  default_prompt: "Find the top competitors for this product idea, score them with evidence, and export an industry-standard benchmark workbook."
